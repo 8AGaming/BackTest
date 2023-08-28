@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "email": "aa@aa.com",
+        "password": "$2b$10$ICkMxSy8Bvb4PCJ3g6upi.8zPGQaHOO47vUh9AQFO9SeoicIgbZJu",
+        "isAdmin": true
+    },
+    {
+        "id": 2,
+        "email": "aa1@aa.com",
+        "password": "$2b$10$Hxg1gFG6Os8kNldks2wH2ugayMIDpNejUeGaEobY4UpaJLV14c.CC",
+        "isAdmin": false
+    },
+    {
+        "id": 3,
+        "email": "aa2@aa.com",
+        "password": "$2b$10$LzOEz6shgt2akkJkLdT2zO6FqWbsweI1vwasu6.xPn6fl1gltSloa",
+        "isAdmin": false
+    },
+    {
+        "email": "aa5@aa.com",
+        "password": "$2b$10$YfcvCgpw6.l5/Pof1G1XYOD.3SQDASkq4dQnCI2AOZEBOD7gjNXn.",
+        "isAdmin": "false",
+        "id": 4
+    },
+    {
+        "email": "aa5@aa.com",
+        "password": "$2b$10$38vie1Bpm3qqr1lpe1r6YuPlOabdGdMy0fkakGmjxN38CqBs0YVA6",
+        "isAdmin": "false",
+        "id": 5
+    },
+    {
+        "email": "aa6@aa.com",
+        "password": "$2b$10$OunSchaZEPz9UBEVavidTOZBhbnZaxEL/4sF862L9r6VJL2M5qymi",
+        "isAdmin": "false",
+        "id": 6
+    }
+]
